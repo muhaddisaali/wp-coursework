@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'Poppins';
+    src: url(Poppins-Regular.ttf) format("TrueType");
+    font-weight: normal;
+    font-style: italic;
+}
+
+.header1 {
+    color: green;
+    font-family:sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.header2 {
+    color: green;
+    font-face: Lora;
+    font-style: italic;
+    font-size: 120px;
+    margin-top: 2px;
+    padding-left: 300px;
+    margin-bottom: 1px;
+}
+
+.body-h {
+    color: green;
+    font-family:sans-serif;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 300px;
+}
+
+.body-n {
+    color: green;
+    font-face: Neue-Helvetica;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 5px;
+    padding-left: 300px;
+}
+
+.body-s {
+    color: green;
+    font-face: Neue-Helvetica;
+    font-style: oblique;
+    font-size: 10px;
+}
+
+hr.new1 {
+  border-top: 1px solid green;
+  border-radius: 5px;
+}
