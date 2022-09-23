@@ -75,39 +75,39 @@ body {
 }
 .item4 {
   font-style: normal;
-  width: 575px;
+  width: 580px;
   font-size: 20px;
  }
 .item5 {
   grid-area: right;
   font-style: normal;
   font-size: 20px;
-    width: 575px;
+    width: 580px;
  }
 .item5:hover {
           background:  url("island1.jpg") no-repeat;
           width: 575px;}
 .item6 {
   grid-area: left;
-  width: 575px;
+  width: 580px;
 }
 .item6:hover {
           background:  url("island2.jpeg") no-repeat;}
 .item7 {
   grid-area: main2;
-  width: 575px;
+  width: 580px;
 }
 .item8 {
   grid-area: main3;
-  width: 575px;
+  width: 580px;
  }
 .item9 {
   grid-area: main4;
-  width: 575px;
+  width: 580px;
 }
 .item10 {
   grid-area: right2;
-  width: 575px;
+  width: 580px;
 }
 .item10:hover {
           background:  url("island3.jpg") no-repeat;}
@@ -123,9 +123,10 @@ body {
     'menu main3 main3 main3 right2 right2'
     'menu main4 main4 main4 right2 right2'
     'menu footer footer footer footer footer';
-  gap: 1px;
+  gap: 0px;
   background-color: green;
-  padding: 5px;
+  padding: 0px;
+  border-width: : 0px
 }
 
 .grid-container > div {
