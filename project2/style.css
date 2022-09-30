@@ -83,7 +83,7 @@ body {
     width: 580px;
  }
 .item5:hover {
-          background:  url("island1.jpg") no-repeat;
+          background:  url("island1.jpeg") no-repeat;
           width: 575px;}
 .item6 {
   grid-area: left;
